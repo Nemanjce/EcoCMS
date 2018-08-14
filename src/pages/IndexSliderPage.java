@@ -7,8 +7,8 @@ package pages;
 
 /**
  *
- * @author Neca
+ * @author Nemanja
  */
-public class PhotoGallery {
+public class IndexSliderPage {
     
 }
