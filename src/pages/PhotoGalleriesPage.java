@@ -27,6 +27,7 @@ public class PhotoGalleriesPage extends Page {
     
     private void enterPhotoPath() {
         sendTextOnField(By.id("photo_gallery_leading_photo"), "http://ecotest.school.cubes.rs/uploads/photo-galleries/4.jpg");
+        
     }
     
     private void confirmSavePhoto() {
