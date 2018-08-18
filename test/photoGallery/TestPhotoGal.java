@@ -60,8 +60,8 @@ public class TestPhotoGal {
 //
 //    }
     @Test
-    public void testInsertGallery() {
-        photoGalleriesPage.insertGallery();
+    public void testInsertGalleryWithPhoto() {
+        photoGalleriesPage.insertGalleryWithPhoto();
 
     }
 }
